@@ -1,0 +1,2 @@
+# SpaceX_Capstone_Project
+This is the final project for the IBM Data Science Professional Certificate.  SpaceX advertises Falcon 9 rocket launches on its website, with a cost of 62 million dollars; other providers cost upward of 165 million dollars each, much of the savings is because SpaceX can reuse the first stage.  If you can accurately predict the likelihood of the first stage rocket landing successfully, you can determine the cost of a launch.  Find a successful machine learning model to outbid other competitors for a SpaceX rocket launch.
